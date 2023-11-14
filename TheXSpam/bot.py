@@ -11,12 +11,12 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-ALT = f"""❖ 𝐎𝐏 𝐒𝐏𝐀𝐌 ❖
+ALT = f"""❖ 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝐒𝐏𝐀𝐌 ❖
 
 ➠ **ρутнσи νєяѕισи** : `3.11.1`
 ➠ **ρуяσ νєяѕισи** : `1.4.16`
 ➠ **χѕραм νєяѕισи**  : `3.3`
-➠ **υρ∂αтєѕ** : @about_skshivam\n"""
+➠ **υρ∂αтєѕ** : @mastiwithfriendsx\n"""
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["ping"], ["/", ".", "!"]))
@@ -25,7 +25,7 @@ async def ping(_, e: Message):
       Fuk = await e.reply("**Pong !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await Fuk.edit_text(f"⁂ 𝙾𝙿 𝚂𝙿𝙰𝙼\n⁂ ᴘɪɴɢ: `{ms}ms`\n➠ ᴠᴇʀsɪᴏɴ: `3.3`")
+      await Fuk.edit_text(f"⁂ STRANGER 𝚂𝙿𝙰𝙼\n⁂ ᴘɪɴɢ: `{ms}ms`\n➠ ᴠᴇʀsɪᴏɴ: `3.3`")
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["alive"], ["/", ".", "!"]))
