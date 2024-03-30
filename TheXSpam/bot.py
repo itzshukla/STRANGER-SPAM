@@ -16,7 +16,7 @@ ALT = f"""❖ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐒𝐏𝐀𝐌 ❖
 ➠ **𝗣ʏᴛʜᴏɴ 𝗩ᴇʀsɪᴏɴ** : `3.11.1`
 ➠ **𝗣ʏʀᴏɢʀᴀᴍ 𝗩ᴇʀsɪᴏɴ** : `1.4.16`
 ➠ **𝗦ᴛʀᴀɴɢᴇʀ𝗦ᴘᴀᴍ 𝗩ᴇʀsɪᴏɴ**  : `3.3`
-➠ **𝗨ᴘᴅᴀᴛᴇs** : @mastiwithfriendsx\n"""
+➠ **𝗨ᴘᴅᴀᴛᴇs** : @MASTIWITHFRIENDSXD\n"""
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["ping"], ["/", ".", "!"]))
