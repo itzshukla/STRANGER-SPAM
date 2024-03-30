@@ -9,14 +9,14 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itzshukla/count.svg" />
 </p>
 
-<p align="center"><a href="https://t.me/mastiwithfriendsx"><img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg"></a></p>
+<p align="center"><a href="https://t.me/MASTIWITHFRIENDSXD"><img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 🖤](https://t.me/shiva_ansh_op)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 🖤](https://t.me/SHIVANSH474)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
